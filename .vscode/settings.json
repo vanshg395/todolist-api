@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/Users/vanshgoel/Development/Projects/Django/todolist/env/bin/python3.7",
+    "python.formatting.provider": "black"
+}

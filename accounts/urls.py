@@ -2,6 +2,6 @@ from django.contrib import admin
 from django.urls import path, include
 
 urlpatterns = [
-    path('djoser/', include('djoser.urls')),
-    path('djoser/', include('djoser.urls.authtoken')),
+    path("", include("djoser.urls")),
+    path("", include("djoser.urls.authtoken")),
 ]
